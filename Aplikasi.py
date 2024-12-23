@@ -17,7 +17,7 @@ with open('y_test.pkl', 'rb') as f:
     y_test = pickle.load(f)
 
 st.title('Prediksi Harga Mobil Toyota')
-st.image('mobil.png', use_column_width=True)
+st.image('2.jpg', use_column_width=True)
 
 # Input fields
 with st.container():
