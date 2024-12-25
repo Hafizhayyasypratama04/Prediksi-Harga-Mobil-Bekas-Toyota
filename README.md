@@ -43,7 +43,7 @@ python --version
 1. Clone repositori:
 
    ```bash
-   git clone https://github.com/Hafizhayyasypratama04/Prediksi-Harga-Mobil-Bekas-Toyota.git
+   git clone https://github.com/Hafizhpratam/Prediksi-Harga-Mobil-Bekas-Toyota.git
    cd Prediksi-Harga-Mobil-Bekas-Toyota
    ```
 
