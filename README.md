@@ -1,8 +1,8 @@
 # Prediksi Harga Mobil Bekas Toyota
 
-MIT License | Python 3.8+ | Streamlit | Scikit-learn
+Python 3.8+ | Streamlit | Scikit-learn
 
-Aplikasi interaktif untuk memprediksi harga mobil bekas berdasarkan data spesifik pengguna. Dibangun menggunakan Streamlit untuk antarmuka pengguna yang intuitif.
+Aplikasi interaktif untuk memprediksi harga mobil bekas toyota berdasarkan data spesifik pengguna. Dibangun menggunakan Streamlit untuk antarmuka pengguna yang intuitif.
 
 ---
 
