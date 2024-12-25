@@ -74,8 +74,6 @@ python --version
 
 ## 🛠️ Teknologi yang Digunakan
 
-### Backend
-
 - **Streamlit**: Framework untuk aplikasi web interaktif.
 - **Scikit-learn**: Model machine learning.
 - **Pandas**: Manipulasi data.
@@ -84,19 +82,6 @@ python --version
 ---
 
 ## 🤝 Kontribusi
-
-Kontribusi membuat komunitas open source menjadi tempat yang luar biasa untuk belajar, menginspirasi, dan berkreasi. Setiap kontribusi yang Anda berikan sangat dihargai.
-
-1. Fork proyek ini.
-2. Buat branch fitur Anda.
-3. Commit perubahan Anda.
-4. Push ke branch.
-5. Buka Pull Request.
-
-Lihat panduan kontribusi untuk detail lebih lanjut.
----
-
-## Team Projek
 
 - **Hafizh Ayyasy Pratama** 
 - **Naufal Aulia Rachman**
